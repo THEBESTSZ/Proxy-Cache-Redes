@@ -1,0 +1,3 @@
+[*] Request Done NOC: aaacomp.com.br/ => 0.7 KB <=
+[*] Request Done NOC: aaacomp.com.br/favicon.ico => 8.0 KB <=
+[*] Request Done NOC: aaacomp.com.br/favicon.ico => 1.2 KB <=
